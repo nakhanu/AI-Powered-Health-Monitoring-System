@@ -111,8 +111,35 @@ Concern	Mitigation
 
  Host model on cloud (e.g., Hugging Face or AWS Lambda)
 
-## 🤝 Contributing
-Contributions are welcome! Fork the repo and open a pull request or create an issue to suggest improvements.
+## 🤝 Contributors
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <a href="https://https://github.com/berena-code" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/0?v=4" width="100px;" alt="Jean Guya"/>
+        <br /><b>Jean Guya</b>
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://github.com/nakhanu" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/131362156?v=4" width="100px;" alt="Sophia Nakhanu"/>
+        <br /><b>Sophia Nakhanu</b>
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://https://github.com/Bundikingson" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/0?v=4" width="100px;" alt="Bundikingson"/>
+        <br /><b>Bundikingson</b>
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://https://github.com/ThobekaNelisiweJali" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/0?v=4" width="100px;" alt="Thobeka Nelisiwe Jali"/>
+        <br /><b>Thobeka Nelisiwe Jali</b>
+      </a>
+    </td>
+  </tr>
+</table>.
 
 ## 📄 License
 This project is open-source under the MIT License.
