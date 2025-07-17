@@ -1,6 +1,7 @@
 # 🧠 AI-Powered Health Monitoring & Early Warning System
 
 > A machine learning project to detect early signs of illness using synthetic biometric data, aligned with SDG 3 (Good Health & Well-being) and SDG 9 (Industry, Innovation & Infrastructure).
+https://ai-health-monitoring-system-app-rbhlzpbqko9y36bg7ajnld.streamlit.app/
 
 ---
 
